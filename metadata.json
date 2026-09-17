@@ -1,0 +1,6 @@
+{
+  "name": "GLAM RUNWAY",
+  "description": "Game fashion 2D lengkap gabungan Makeup, Dress Up, AI Stylist, dan Fashion Show Runway dengan ratusan item busana, sistem penilaian juri, dan unlock progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
